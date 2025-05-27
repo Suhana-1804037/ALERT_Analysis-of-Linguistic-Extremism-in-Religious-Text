@@ -3,15 +3,13 @@ The widespread dissemination of religiously aggressive content on social media p
 
 The dataset was obtained from several online platforms, including Facebook, YouTube, blogs, online news portals, and group discussions. We executed multiple stages for data preprocessing, including the elimination of duplicates, special characters, emoji to improve the coherence of the dataset. Each instance in the dataset was annotated by two of the lists of four annotators with diverse academic, religious, and racial backgrounds, with any discrepancies resolved by expert review.
 
-The ALERT dataset is a collection of 4,003 Bangla texts categorized as,
-1.	hate speech (1,007), 
-2.	vandalism (998), 
-3.	life-threatening (994),  
-4.	no aggression (1,004)
+The ALERT dataset is a collection of 4,027 Bangla texts categorized as,
+1.	hate speech ((995), 
+2.	vandalism (909), 
+3.	Atrocity (1117),  
+4.	no aggression (1,006)
    
 The dataset is structured with the following fields:<br>
-•	Annotator 1 <br>
-•	Annotator 2 <br>
 •	Final Annotation<br>
 •	Text<br>
 •	English Translation <br>
