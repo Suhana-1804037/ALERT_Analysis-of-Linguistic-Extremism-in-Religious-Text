@@ -12,5 +12,6 @@ The dataset is structured with the following fields:
 •	Final Annotation
 •	Text
 •	English Translation 
+
 Our developed dataset contains a mix of formal and informal Bangla texts, reflecting how people communicate in real life. Instead of simply labeling content as aggressive or not, it offers more detailed categories based on level of aggression, helping with more precise content moderation. The dataset is publicly accessible for research purposes to promote innovation and collaboration within the Bengali NLP community.
 
