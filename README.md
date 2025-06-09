@@ -7,8 +7,10 @@ The ALERT dataset is a collection of 4,027 Bangla texts categorized as
 1.	Hate speech (995),  
 2.	Vandalism (909),  
 3.	Atrocity (1117),   
-4.	No aggression (1,006). 
+4.	No aggression (1,006).
+   
 The dataset is structured with the following fields:
+
 •	Final Annotation
 •	Text
 •	English Translation 
